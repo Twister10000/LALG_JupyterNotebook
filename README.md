@@ -33,9 +33,9 @@ Stelle sicher, dass du die korrekte Umgebung (inklusive Paketen wie `numpy`, `ma
 
 Dieses Repository deckt (oder wird) folgende Themen ab:
 
-* **Thema 1:** (z.B. `LGS_Lösen.ipynb`)
-* **Thema 2:** (z.B. `Matrizen_Operationen.ipynb`)
-* **Thema 3:** (z.B. `Abstände.ipynb`)
+* **Lineare Gleichungsysteme:** (`Notebooks\LGS_Lösen.ipynb`)
+* **Matrizen:** (`Notebooks\Matrizen_Operationen.ipynb`)
+* **Ebene R2 & R3:** (`Notebooks\Abstände.ipynb`)
 
 
 ## ⚠️ Haftungsausschluss
