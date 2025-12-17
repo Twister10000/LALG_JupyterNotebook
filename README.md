@@ -31,7 +31,7 @@ Stelle sicher, dass du die korrekte Umgebung (inklusive Paketen wie `numpy`, `ma
 
 ## 📚 Inhalt
 
-Dieses Repository deckt (oder wird) folgende Themen ab:
+Dieses Repository deckt folgende Themen ab:
 
 * **Lineare Gleichungsysteme:** (`Notebooks\LGS_Lösen.ipynb`)
 * **Matrizen:** (`Notebooks\Matrizen_Operationen.ipynb`)
