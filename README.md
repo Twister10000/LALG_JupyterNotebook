@@ -37,6 +37,7 @@ Dieses Repository deckt (oder wird) folgende Themen ab:
 * **Matrizen:** (`Notebooks\Matrizen_Operationen.ipynb`)
 * **Ebene R2 & R3:** (`Notebooks\Abstände.ipynb`)
 * **Lineare Abbildungen:** (`Notebooks\Lineare_Abbildung.ipynb`)
+* **RLC-Netzwerke:** (`Notebooks\RLC-Netzwerke.ipynb`)
 
 
 ## ⚠️ Haftungsausschluss
