@@ -35,7 +35,7 @@ Dieses Repository deckt folgende Themen ab:
 
 * **Lineare Gleichungsysteme:** (`Notebooks\LGS_Lösen.ipynb`)
 * **Matrizen:** (`Notebooks\Matrizen_Operationen.ipynb`)
-* **Ebene R2 & R3:** (`Notebooks\Abstände.ipynb`)
+* **Ebene  $`\R^2 & R^3`$R2 & R3:** (`Notebooks\Abstände.ipynb`)
 * **Lineare Abbildungen:** (`Notebooks\Lineare_Abbildung.ipynb`)
 * **RLC-Netzwerke:** (`Notebooks\RLC-Netzwerke.ipynb`)
 
