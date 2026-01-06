@@ -11,7 +11,7 @@ Die Notebooks sollen dabei helfen, Konzepte der Vorlesung praktisch anzuwenden, 
 
 Zur Nutzung dieser Notebooks wird die **Anaconda-Umgebung gemäss HTU25** benötigt.
 
-Stelle sicher, dass du die korrekte Umgebung (inklusive Paketen wie `numpy`, `matplotlib`, `scipy` etc.) gemäss den Vorgaben der HTU installiert und aktiviert hast.
+Stelle sicher, dass du die korrekte Umgebung (inklusive Paketen wie `numpy`, `matplotlib`, `sympy` , `scipy` etc.) gemäss den Vorgaben der HTU installiert und aktiviert hast.
 
 ## 🚀 Nutzung
 
